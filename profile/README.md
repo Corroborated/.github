@@ -8,7 +8,7 @@ We are currently building our website.
 
 ## Founding 👨🏻‍💻
 
-[MaX](https://github.com/MaXFalstein) started building political vehicles in 2019; however, Corroborated was founded in 2020.
+[MaX](https://github.com/MaXFalstein) started building political vehicles in 2019; however, Corroborated was founded in 2023.
 
 ## Corroborated on GitHub 🧑‍🍳
 
@@ -20,7 +20,7 @@ Corroborated is baking/building on GitHub:
 4.	Docs
 5.	Tools
 
-We started building software for Corroborated in early 2022.
+We started building software for a political vehicle which became Corroborated in early 2022.
 We built Cloudflare Worker scripts to automate tasks.
 
 ## Our Communities 👨‍👩‍👦👨‍👩‍👧👨‍👩‍👧‍👦👨‍👩‍👦‍👦👨‍👩‍👧‍👧👩‍👩‍👦👩‍👩‍👧👩‍👩‍👧‍👦👩‍👩‍👦‍👦👩‍👩‍👧‍👧👨‍👨‍👦👨‍👨‍👧👨‍👨‍👧‍👦👨‍👨‍👦‍👦👨‍👨‍👧‍👧👩‍👦👩‍👧👩‍👧‍👦👩‍👦‍👦👩‍👧‍👧👨‍👦👨‍👧👨‍👧‍👦👨‍👦‍👦👨‍👧‍👧
